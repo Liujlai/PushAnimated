@@ -9,9 +9,9 @@
 import UIKit
 
 class AViewController: UIViewController, UINavigationControllerDelegate {
-
+    
     @IBOutlet weak var imgView: UIImageView!
-     var image: UIImage!
+    var image: UIImage!
     
     private var percentDrivenTransition: UIPercentDrivenInteractiveTransition?
     
