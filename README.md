@@ -1,0 +1,2 @@
+# PushAnimated
+collectionView自定义Push跳转动画
